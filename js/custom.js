@@ -34,8 +34,8 @@ $(".clients").slick({
   slidesToScroll: 1,
   autoplay: true,
   speed: 1000,
-  dots: true,
-  arrows: true,
+  dots: false,
+  arrows: false,
   infinite: true,
   responsive: [{
       breakpoint: 768,
