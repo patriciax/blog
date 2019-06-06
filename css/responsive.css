@@ -2242,3 +2242,58 @@ width: 55%;
     padding: 0px 16px !important;
   }
 }
+@media (max-width: 576px) {
+
+  .btn_3 {
+    padding-top: 0px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+  .btn_3 {
+    padding-top: 0px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+  .btn_3 {
+    padding-top: 0px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  /* line 93, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_button.scss */
+  .btn_3 {
+    padding-top: 0px;
+  }
+}
+
+@media (max-width: 576px) {
+  /* line 122, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_button.scss */
+  .btn_4 {
+    padding: 14px 30px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 122, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_button.scss */
+  .btn_4 {
+    padding: 14px 30px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 122, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_button.scss */
+  .btn_4 {
+    padding: 14px 30px;
+  }
+}
+@media (max-width: 767px) {
+  /* line 151, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_button.scss */
+  .button {
+    font-size: 13px;
+    padding: 9px 24px;
+  }
+}
