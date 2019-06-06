@@ -17,15 +17,11 @@ body {
 }
 .social{
   z-index: 9;
-  text-align: end;
-  width: 100%;
-  justify-content: flex-end;
-  display: flex;
-  align-items: center;
-  height: 100vh;
+
   padding: 20px;
   position: fixed;
-  top: 0;
+  top: 30%;
+  right: 0;
 }
 .social li{
   margin: 0 0 15px;
